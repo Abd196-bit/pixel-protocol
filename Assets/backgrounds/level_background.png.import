@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://due0vpg6xolc8"
-path="res://.godot/imported/Screenshot 2026-09-03 214637.png-e6d031504e157bb836fb6beaeed99aff.ctex"
+path="res://.godot/imported/level_background.png-cbb62656d791a0d601a572f4c093ec32.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/backgrounds/level_background.png"
-dest_files=["res://.godot/imported/Screenshot 2026-09-03 214637.png-e6d031504e157bb836fb6beaeed99aff.ctex"]
+dest_files=["res://.godot/imported/level_background.png-cbb62656d791a0d601a572f4c093ec32.ctex"]
 
 [params]
 

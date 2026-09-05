@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0thsxigaa8ee"
-path="res://.godot/imported/cloud_platforms.png-b0a2f2f0ae410c9773b2bd9b25aaf431.ctex"
+path="res://.godot/imported/cloud_platforms.png-eb223999414b70e3e4e6a6e13a8f9449.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/cloud_platforms.png"
-dest_files=["res://.godot/imported/cloud_platforms.png-b0a2f2f0ae410c9773b2bd9b25aaf431.ctex"]
+dest_files=["res://.godot/imported/cloud_platforms.png-eb223999414b70e3e4e6a6e13a8f9449.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqqrt3t7aekn4"
-path="res://.godot/imported/penguin.png-02369c78f8730fa5d888c296429014ab.ctex"
+path="res://.godot/imported/penguin.png-c1f70d4ddd9545a2d45d809f271b44cb.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/penguin.png"
-dest_files=["res://.godot/imported/penguin.png-02369c78f8730fa5d888c296429014ab.ctex"]
+dest_files=["res://.godot/imported/penguin.png-c1f70d4ddd9545a2d45d809f271b44cb.ctex"]
 
 [params]
 

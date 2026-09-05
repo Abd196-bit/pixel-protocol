@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c281qrs87qyty"
-path="res://.godot/imported/propeller.png-56d05d182237ab4652cbe6f5979af0e0.ctex"
+path="res://.godot/imported/propeller.png-ffd7e1c84f6e913125b8745e28e257ef.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/propeller.png"
-dest_files=["res://.godot/imported/propeller.png-56d05d182237ab4652cbe6f5979af0e0.ctex"]
+dest_files=["res://.godot/imported/propeller.png-ffd7e1c84f6e913125b8745e28e257ef.ctex"]
 
 [params]
 

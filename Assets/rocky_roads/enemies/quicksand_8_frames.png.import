@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djltr2txc3tii"
-path="res://.godot/imported/quicksand_8frames.png-c1659fb4865fcd8793658c83e709d4f1.ctex"
+path="res://.godot/imported/quicksand_8_frames.png-60b3e56c7e6b3061d63943bc72ff8d69.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/quicksand_8_frames.png"
-dest_files=["res://.godot/imported/quicksand_8frames.png-c1659fb4865fcd8793658c83e709d4f1.ctex"]
+dest_files=["res://.godot/imported/quicksand_8_frames.png-60b3e56c7e6b3061d63943bc72ff8d69.ctex"]
 
 [params]
 

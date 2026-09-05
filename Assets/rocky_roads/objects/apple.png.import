@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cursqo82487bh"
-path="res://.godot/imported/apple.png-522786a7efcf25d1b0d1957aa5d64f4e.ctex"
+path="res://.godot/imported/apple.png-1bcb7567e089943b79e88bd73255fa7b.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/apple.png"
-dest_files=["res://.godot/imported/apple.png-522786a7efcf25d1b0d1957aa5d64f4e.ctex"]
+dest_files=["res://.godot/imported/apple.png-1bcb7567e089943b79e88bd73255fa7b.ctex"]
 
 [params]
 

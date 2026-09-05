@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ebyeoufn5u8w"
-path="res://.godot/imported/shine_white.png-7bd9bc097033279fd8f2334638c42544.ctex"
+path="res://.godot/imported/shine_white.png-2450343165096c089bc9abcab38197b0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/shine_white.png"
-dest_files=["res://.godot/imported/shine_white.png-7bd9bc097033279fd8f2334638c42544.ctex"]
+dest_files=["res://.godot/imported/shine_white.png-2450343165096c089bc9abcab38197b0.ctex"]
 
 [params]
 

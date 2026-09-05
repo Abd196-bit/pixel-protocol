@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h6mwfbtao4qc"
-path="res://.godot/imported/bat.png-09e03a6f4ae38e78f7e9db457a4e2203.ctex"
+path="res://.godot/imported/bat.png-74b6ec0d63796acd7a42477decb9b21d.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/bat.png"
-dest_files=["res://.godot/imported/bat.png-09e03a6f4ae38e78f7e9db457a4e2203.ctex"]
+dest_files=["res://.godot/imported/bat.png-74b6ec0d63796acd7a42477decb9b21d.ctex"]
 
 [params]
 

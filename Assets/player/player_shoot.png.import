@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm8t7445awqgo"
-path="res://.godot/imported/shoot-ezgif.com-gif-to-sprite-converter.png-9a8e65518d77c481a71880b3e48f3d0b.ctex"
+path="res://.godot/imported/player_shoot.png-50534e0fd7b842384c6ef9101dd1ef15.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/player/player_shoot.png"
-dest_files=["res://.godot/imported/shoot-ezgif.com-gif-to-sprite-converter.png-9a8e65518d77c481a71880b3e48f3d0b.ctex"]
+dest_files=["res://.godot/imported/player_shoot.png-50534e0fd7b842384c6ef9101dd1ef15.ctex"]
 
 [params]
 

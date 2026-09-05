@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qbqe3cq8pkr1"
-path="res://.godot/imported/bubble.png-f49dc843610231f0ea80c4fa87194721.ctex"
+path="res://.godot/imported/bubble.png-24717ab751d696c278f3188a6ba32973.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/bubble.png"
-dest_files=["res://.godot/imported/bubble.png-f49dc843610231f0ea80c4fa87194721.ctex"]
+dest_files=["res://.godot/imported/bubble.png-24717ab751d696c278f3188a6ba32973.ctex"]
 
 [params]
 

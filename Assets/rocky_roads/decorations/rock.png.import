@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cim63defkh6hh"
-path="res://.godot/imported/rock.png-d5067e3c14098c78065cf1ed81734c82.ctex"
+path="res://.godot/imported/rock.png-5f9116bce0f96eb30369b31191528ef2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/decorations/rock.png"
-dest_files=["res://.godot/imported/rock.png-d5067e3c14098c78065cf1ed81734c82.ctex"]
+dest_files=["res://.godot/imported/rock.png-5f9116bce0f96eb30369b31191528ef2.ctex"]
 
 [params]
 

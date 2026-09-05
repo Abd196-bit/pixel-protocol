@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca8a5mxmcguwj"
-path="res://.godot/imported/flag.png-d99838a65ef545ccf90fdf0eb78da019.ctex"
+path="res://.godot/imported/flag.png-e93ce3e183351792052b4e52b8b383d8.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/flag.png"
-dest_files=["res://.godot/imported/flag.png-d99838a65ef545ccf90fdf0eb78da019.ctex"]
+dest_files=["res://.godot/imported/flag.png-e93ce3e183351792052b4e52b8b383d8.ctex"]
 
 [params]
 

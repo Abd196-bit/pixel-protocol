@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://btitltdoyntnc"
-path="res://.godot/imported/splash.png-0fb4e1972f181fc0854578861fd6e893.ctex"
+path="res://.godot/imported/splash.png-f81b1a188a6632e3e6d18a00977c9011.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/splash.png"
-dest_files=["res://.godot/imported/splash.png-0fb4e1972f181fc0854578861fd6e893.ctex"]
+dest_files=["res://.godot/imported/splash.png-f81b1a188a6632e3e6d18a00977c9011.ctex"]
 
 [params]
 

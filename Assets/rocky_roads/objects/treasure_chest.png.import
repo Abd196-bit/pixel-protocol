@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2ehfo3n6ktql"
-path="res://.godot/imported/treasure_chest.png-78c00a9e5339cc26cb47e5988f09d14e.ctex"
+path="res://.godot/imported/treasure_chest.png-6fa3a41ea1c255c9d54474833924c8a4.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/treasure_chest.png"
-dest_files=["res://.godot/imported/treasure_chest.png-78c00a9e5339cc26cb47e5988f09d14e.ctex"]
+dest_files=["res://.godot/imported/treasure_chest.png-6fa3a41ea1c255c9d54474833924c8a4.ctex"]
 
 [params]
 

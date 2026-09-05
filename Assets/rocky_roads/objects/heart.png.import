@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckgbfq1ghg7gv"
-path="res://.godot/imported/heart.png-03375d21524c7024a43c07ade5f16c19.ctex"
+path="res://.godot/imported/heart.png-9989837aa995adf4c75073a4e926d8a0.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/heart.png"
-dest_files=["res://.godot/imported/heart.png-03375d21524c7024a43c07ade5f16c19.ctex"]
+dest_files=["res://.godot/imported/heart.png-9989837aa995adf4c75073a4e926d8a0.ctex"]
 
 [params]
 

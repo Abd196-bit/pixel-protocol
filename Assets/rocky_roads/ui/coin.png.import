@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvalcwt8cjhx4"
-path="res://.godot/imported/coin.png-4df266c9c7ee0084f1d648a160122326.ctex"
+path="res://.godot/imported/coin.png-8d255be9de3d8900f662467382a35b32.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/ui/coin.png"
-dest_files=["res://.godot/imported/coin.png-4df266c9c7ee0084f1d648a160122326.ctex"]
+dest_files=["res://.godot/imported/coin.png-8d255be9de3d8900f662467382a35b32.ctex"]
 
 [params]
 

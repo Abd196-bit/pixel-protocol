@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d0a1qusl36ee3"
-path="res://.godot/imported/bomb.png-f254dfb4be16cdebd418b86225a895ae.ctex"
+path="res://.godot/imported/bomb.png-c5ecde34f711b1996f3963eb63991699.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/bomb.png"
-dest_files=["res://.godot/imported/bomb.png-f254dfb4be16cdebd418b86225a895ae.ctex"]
+dest_files=["res://.godot/imported/bomb.png-c5ecde34f711b1996f3963eb63991699.ctex"]
 
 [params]
 

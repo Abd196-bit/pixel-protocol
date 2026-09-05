@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vyp7u7ryrko5"
-path="res://.godot/imported/cannon_fire_smoke.png-6c6d53a0af9af2e333a2e72afa70395e.ctex"
+path="res://.godot/imported/cannon_fire_smoke.png-eb318097f02b96917418b25b1e1f8a56.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/cannon_fire_smoke.png"
-dest_files=["res://.godot/imported/cannon_fire_smoke.png-6c6d53a0af9af2e333a2e72afa70395e.ctex"]
+dest_files=["res://.godot/imported/cannon_fire_smoke.png-eb318097f02b96917418b25b1e1f8a56.ctex"]
 
 [params]
 

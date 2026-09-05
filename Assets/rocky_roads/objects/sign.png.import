@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl8diw3m7nnh0"
-path="res://.godot/imported/sign.png-8491d7695e67b61e9e09ba99028d3d5b.ctex"
+path="res://.godot/imported/sign.png-9dee9a9777a466ad40e53c7d234ef5c7.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/sign.png"
-dest_files=["res://.godot/imported/sign.png-8491d7695e67b61e9e09ba99028d3d5b.ctex"]
+dest_files=["res://.godot/imported/sign.png-9dee9a9777a466ad40e53c7d234ef5c7.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bopwngc4fbux8"
-path="res://.godot/imported/walk_dust.png-7c0d3db92c2dc6cdc5c0179cd359b650.ctex"
+path="res://.godot/imported/walk_dust.png-f6991dafef7134aa87f1a45c5fc033fd.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/walk_dust.png"
-dest_files=["res://.godot/imported/walk_dust.png-7c0d3db92c2dc6cdc5c0179cd359b650.ctex"]
+dest_files=["res://.godot/imported/walk_dust.png-f6991dafef7134aa87f1a45c5fc033fd.ctex"]
 
 [params]
 

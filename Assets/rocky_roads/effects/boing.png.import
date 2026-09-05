@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dicrn1q1fr4ln"
-path="res://.godot/imported/boing.png-fb0846f178b1bbd2a94cb61011b43172.ctex"
+path="res://.godot/imported/boing.png-1e7ae9b66f0e08f66384af0838f73a37.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/boing.png"
-dest_files=["res://.godot/imported/boing.png-fb0846f178b1bbd2a94cb61011b43172.ctex"]
+dest_files=["res://.godot/imported/boing.png-1e7ae9b66f0e08f66384af0838f73a37.ctex"]
 
 [params]
 

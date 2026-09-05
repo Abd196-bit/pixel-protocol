@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c74r54ubk1c8k"
-path="res://.godot/imported/tileset_water.png-3ae334171bf81cb373a8b9ee6fbfea73.ctex"
+path="res://.godot/imported/tileset_water.png-07f333f82d1af1f480d562c4a9e37fbc.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/tilesets/tileset_water.png"
-dest_files=["res://.godot/imported/tileset_water.png-3ae334171bf81cb373a8b9ee6fbfea73.ctex"]
+dest_files=["res://.godot/imported/tileset_water.png-07f333f82d1af1f480d562c4a9e37fbc.ctex"]
 
 [params]
 

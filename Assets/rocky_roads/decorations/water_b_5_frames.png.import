@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b707ucucb5qub"
-path="res://.godot/imported/water_b_5 frames.png-ca9bb0746b91a4f407815f1a34ce9046.ctex"
+path="res://.godot/imported/water_b_5_frames.png-5c968e329df2f3176e1e0322a305d6d2.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/decorations/water_b_5_frames.png"
-dest_files=["res://.godot/imported/water_b_5 frames.png-ca9bb0746b91a4f407815f1a34ce9046.ctex"]
+dest_files=["res://.godot/imported/water_b_5_frames.png-5c968e329df2f3176e1e0322a305d6d2.ctex"]
 
 [params]
 

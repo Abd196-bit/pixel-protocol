@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjyi3qljvlc8b"
-path="res://.godot/imported/wood_stakes.png-57ee14e0db825b7d2ad65ed9000283b5.ctex"
+path="res://.godot/imported/wood_stakes.png-e70b8053599203c6a851a00c4fea7e75.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/wood_stakes.png"
-dest_files=["res://.godot/imported/wood_stakes.png-57ee14e0db825b7d2ad65ed9000283b5.ctex"]
+dest_files=["res://.godot/imported/wood_stakes.png-e70b8053599203c6a851a00c4fea7e75.ctex"]
 
 [params]
 

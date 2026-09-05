@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1l8qn4uquwwp"
-path="res://.godot/imported/ui.png-b3edfb5e879ee452f5fca178c86116e6.ctex"
+path="res://.godot/imported/ui.png-61eab3ebf948970dade0dbf9b773e1d6.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/ui/ui.png"
-dest_files=["res://.godot/imported/ui.png-b3edfb5e879ee452f5fca178c86116e6.ctex"]
+dest_files=["res://.godot/imported/ui.png-61eab3ebf948970dade0dbf9b773e1d6.ctex"]
 
 [params]
 

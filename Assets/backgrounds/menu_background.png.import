@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnkvmhaeb6hkk"
-path="res://.godot/imported/nano-banana-free-nano-banana-5-Fy0BMEE9ga3nMEXqlwRfmX.png-c2ae25f84a856a199147dfb450860e27.ctex"
+path="res://.godot/imported/menu_background.png-d53ecb85c46332582a9e6757cd7377db.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/backgrounds/menu_background.png"
-dest_files=["res://.godot/imported/nano-banana-free-nano-banana-5-Fy0BMEE9ga3nMEXqlwRfmX.png-c2ae25f84a856a199147dfb450860e27.ctex"]
+dest_files=["res://.godot/imported/menu_background.png-d53ecb85c46332582a9e6757cd7377db.ctex"]
 
 [params]
 

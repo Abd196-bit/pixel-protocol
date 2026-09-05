@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chjycj0757khr"
-path="res://.godot/imported/fireball.png-49ce5425b0957c61e03e30664df8d9f9.ctex"
+path="res://.godot/imported/fireball.png-d6d08fa70ae61bd750230123abed2c44.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/fireball.png"
-dest_files=["res://.godot/imported/fireball.png-49ce5425b0957c61e03e30664df8d9f9.ctex"]
+dest_files=["res://.godot/imported/fireball.png-d6d08fa70ae61bd750230123abed2c44.ctex"]
 
 [params]
 

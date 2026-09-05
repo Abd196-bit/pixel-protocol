@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbdeadcj24ds0"
-path="res://.godot/imported/ladder.png-3a64ab963153451689766767285539d9.ctex"
+path="res://.godot/imported/ladder.png-b39c71f3ca31553ab509a552d76d6dad.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/objects/ladder.png"
-dest_files=["res://.godot/imported/ladder.png-3a64ab963153451689766767285539d9.ctex"]
+dest_files=["res://.godot/imported/ladder.png-b39c71f3ca31553ab509a552d76d6dad.ctex"]
 
 [params]
 

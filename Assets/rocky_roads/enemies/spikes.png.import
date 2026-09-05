@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://box2tt35s2mac"
-path="res://.godot/imported/spikes.png-6d6a0b3213cdeb2ebf81e1f99119dff4.ctex"
+path="res://.godot/imported/spikes.png-45b87bb442927e5480772fd09869d769.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/spikes.png"
-dest_files=["res://.godot/imported/spikes.png-6d6a0b3213cdeb2ebf81e1f99119dff4.ctex"]
+dest_files=["res://.godot/imported/spikes.png-45b87bb442927e5480772fd09869d769.ctex"]
 
 [params]
 

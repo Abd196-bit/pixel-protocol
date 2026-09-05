@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b625272nu4pbm"
-path="res://.godot/imported/mountains_a.png-859f1d082a3d36b662b022186b407325.ctex"
+path="res://.godot/imported/mountains_a.png-76daf9b7ec50ec5c4b38ca910ee56f82.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/backgrounds/mountains_a.png"
-dest_files=["res://.godot/imported/mountains_a.png-859f1d082a3d36b662b022186b407325.ctex"]
+dest_files=["res://.godot/imported/mountains_a.png-76daf9b7ec50ec5c4b38ca910ee56f82.ctex"]
 
 [params]
 

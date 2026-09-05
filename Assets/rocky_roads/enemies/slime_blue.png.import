@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dbvqbo3rdh1bq"
-path="res://.godot/imported/slime_blue.png-387e0ba3fcdb3f7a90554f1bdade3ec6.ctex"
+path="res://.godot/imported/slime_blue.png-9986dbffaf0b976c96a3c40c8aaad479.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/slime_blue.png"
-dest_files=["res://.godot/imported/slime_blue.png-387e0ba3fcdb3f7a90554f1bdade3ec6.ctex"]
+dest_files=["res://.godot/imported/slime_blue.png-9986dbffaf0b976c96a3c40c8aaad479.ctex"]
 
 [params]
 

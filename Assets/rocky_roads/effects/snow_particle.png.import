@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyy8v6w2lggrw"
-path="res://.godot/imported/snow_particle.png-66c5489a8984aa73c36a1d6ec81d6dfd.ctex"
+path="res://.godot/imported/snow_particle.png-27b52d0e1e9b08ec693f30e38ec684d5.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/snow_particle.png"
-dest_files=["res://.godot/imported/snow_particle.png-66c5489a8984aa73c36a1d6ec81d6dfd.ctex"]
+dest_files=["res://.godot/imported/snow_particle.png-27b52d0e1e9b08ec693f30e38ec684d5.ctex"]
 
 [params]
 

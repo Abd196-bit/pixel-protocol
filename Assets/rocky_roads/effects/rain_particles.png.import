@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rjvigsf7gl7m"
-path="res://.godot/imported/rain_particles.png-d95570bd822fdbf258c7bd233b5abeac.ctex"
+path="res://.godot/imported/rain_particles.png-70d07ef71a3a5e10e39b005f03e33726.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/effects/rain_particles.png"
-dest_files=["res://.godot/imported/rain_particles.png-d95570bd822fdbf258c7bd233b5abeac.ctex"]
+dest_files=["res://.godot/imported/rain_particles.png-70d07ef71a3a5e10e39b005f03e33726.ctex"]
 
 [params]
 

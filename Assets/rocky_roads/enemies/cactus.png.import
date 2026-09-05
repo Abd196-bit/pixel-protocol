@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cd6kyg6rvjp1s"
-path="res://.godot/imported/cactus.png-7083baa04aaf09154b6ffabbe0a41ea0.ctex"
+path="res://.godot/imported/cactus.png-ee7aa40c6f0becb69d6536616130653c.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/enemies/cactus.png"
-dest_files=["res://.godot/imported/cactus.png-7083baa04aaf09154b6ffabbe0a41ea0.ctex"]
+dest_files=["res://.godot/imported/cactus.png-ee7aa40c6f0becb69d6536616130653c.ctex"]
 
 [params]
 

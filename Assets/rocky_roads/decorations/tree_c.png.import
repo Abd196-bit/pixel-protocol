@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://uve5tifb2k6u"
-path="res://.godot/imported/tree_c.png-b5d22056393b1d7852d36f39fec687f6.ctex"
+path="res://.godot/imported/tree_c.png-0cf17fd3b5e4a3755bb3b1916ca4d647.ctex"
 metadata={
 "vram_texture": false
 }
@@ -11,7 +11,7 @@ metadata={
 [deps]
 
 source_file="res://Assets/rocky_roads/decorations/tree_c.png"
-dest_files=["res://.godot/imported/tree_c.png-b5d22056393b1d7852d36f39fec687f6.ctex"]
+dest_files=["res://.godot/imported/tree_c.png-0cf17fd3b5e4a3755bb3b1916ca4d647.ctex"]
 
 [params]
 
