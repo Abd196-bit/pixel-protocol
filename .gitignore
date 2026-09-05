@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Godot export output
+/build/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
